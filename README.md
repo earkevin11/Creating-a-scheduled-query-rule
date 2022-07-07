@@ -64,3 +64,10 @@
 <img src="https://user-images.githubusercontent.com/104326475/177675194-fc452f10-7d68-40c3-8187-883d4d6eb20a.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
+
+
+
+# Sentinel - Playbooks
+- When an incident occurs, we have an a playbook to run.
+- It is essentially the logic app service that will be created.
+- If a particular incident triggers, we can have an email be sent to the administrator.
