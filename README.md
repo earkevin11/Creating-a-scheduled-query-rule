@@ -42,9 +42,25 @@
 
 # Simulate a sign-in to see if an alert and incident was create
 - I failed to sign-in about 4 times in the lebron james account.
-- Alerts should be generated.
+- Incident and alert should be generated.
 <p align="center">
   
-<img src="" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177674838-465cff31-ceef-46e3-9dde-2da6fe701713.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# If you click "Incident" under threat management, the incident generated will appear
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177674838-465cff31-ceef-46e3-9dde-2da6fe701713.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+
+# Users can respond to incidents 
+- There's options to close and classify the reason for closing
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177675194-fc452f10-7d68-40c3-8187-883d4d6eb20a.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
