@@ -24,10 +24,27 @@
 
 <p/>
 
+# Our rule
 
-# Simulate a sign-in to see if an alert and incident was create
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/177671291-d00b6aca-3a08-4fd6-a3d5-382a79beb2d1.png" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177671928-dd18af7d-d9d0-42c3-b6ff-d0905497d254.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# Overview of the LAW in Sentinel before failed sign-ins
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177672075-72f1078c-869c-43c4-8a94-891a85d3e155.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+
+# Simulate a sign-in to see if an alert and incident was create
+- I failed to sign-in about 4 times in the lebron james account.
+- Alerts should be generated.
+<p align="center">
+  
+<img src="" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
